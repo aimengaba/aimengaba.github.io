@@ -25,4 +25,4 @@ My research interests lie at the intersection of Human-Computer Interaction and 
 
 Before embarking on this PhD journey, I worked for about 2 years after completing my bachelors in Computer Science advised by Dr. Suleman Shahid. 
 
-I love everything to do with food i.e., cooking, taking pictures, trying out new things. My hobbies include reading, swimming, and stuff. I love everything to do with food i.e., cooking, taking pictures, trying out new things. 
+I love everything to do with food i.e., cooking, taking pictures, trying out new things. My hobbies include reading, swimming, and stuff.
