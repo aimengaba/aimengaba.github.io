@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Full paper got accepted to IEEE VIS!
+Full paper accepted to IEEE VIS 2023!
