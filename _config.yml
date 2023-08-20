@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -85,7 +85,7 @@ semanticscholar_id: # your Semantic Scholar ID
 # quora_username: # your Quora username
 # publons_id: # your ID on Publons
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: aimengaba # your OSF ID
+osf_id: zywbk # your OSF ID
 # research_gate_profile: # your profile on ResearchGate
 # scopus_id: # your profile on Scopus
 # blogger_url: # your blogger URL
