@@ -2,7 +2,7 @@
 layout: page
 title: Project KHOJ
 description: 3D serious game for environmental preservation
-img:
+img: assets/img/3.jpg
 importance: 3
 category: professional
 ---
