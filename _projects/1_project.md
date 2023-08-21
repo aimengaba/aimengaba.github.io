@@ -8,18 +8,17 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Challenge
+Pakistan presents a particularly challenging case in special education where it places second in global children-out-of-school rankings: many of these children are those with special needs. Thus, most children who suffer from developmental disorders, such as intellectual disability, autism, and cerebral palsy, do not have access to education. This could be attributed to a dearth of special education schools, or to the stigma associated with developmental disorders. In fact, existing special education schools are mostly not-for-profit organizations or private charities. The teaching methodologies employed at such schools differ, and depend largely on the school's resources and ability to provide specialized teacher training.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Discussion and Solution
+As a result, there is a need for educational tools that address special needs in a way that is both effective and affordable. Raabta is designed to address this need. It is an application that uses pictures and sounds as media for communication. It does this by using a framework that is similar to prevalent picture exchange communication systems (PECS) methodologies. Raabta also provides content that is context-aware. That is, the application displays content to the user that is relevant to the user’s location. This is intended to simplify the user experience for children with special needs. It was developed in close collaboration with the Rising Sun Institute for Special Children in Lahore. Instead of using generic pictures, the app uses photographs and pictures from the Rising Sun itself. This was designed to make it easier for students to recognize objects familiar from everyday interactions.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Raabta aids to bridge significant gaps in special education and promises to be different from other existing applications. This is because it is specific to a local context, all efforts to explore context-aware augmented and alternative communication (AAC) systems. Raabta aims to combine elements common to all three - a graphical, picture-based interface with content determined by beacon-emitted Bluetooth micro-location signals. At the same time, the effort is to develop a tool that is relevant to the local context of a special needs school in Punjab, Pakistan. Therefore, an additional feature implemented was a voice-over in Urdu that reads out content generated on-screen.
+
+After a thorough usability testing of the tool, we determined that the children with special needs who are verbally impaired, got better at communicating and learning new vocabulary words by using Raabta. The display of location-aware content using Proximity beacons, Bluetooth technology, and voice feature were a breath of fresh air for the students. They sometimes get tired by attending their session in a specific class setting and the speech therapy room, so when they were able to take a tour of the school and be able to tap and hear a voice from the phone added a lot more excitement and hence increased their ability to learn as well.
+
+### Screens and BTS
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,50 +31,3 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
