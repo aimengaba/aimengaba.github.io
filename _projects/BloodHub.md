@@ -4,7 +4,7 @@ title: BloodHub
 description: Connecting donors to seekers
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: academic
 giscus_comments: true
 ---
 
