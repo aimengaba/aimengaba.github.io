@@ -2,7 +2,7 @@
 layout: page
 title: Allied Schools
 description: Largest school network in Pakistan
-img:
+img: assets/img/3.jpg
 importance: 3
 category: professional
 ---
