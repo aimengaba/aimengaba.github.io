@@ -3,7 +3,6 @@ layout: page
 title: Day with Chip
 description: Interactive story-telling game for children
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: academic
 ---
