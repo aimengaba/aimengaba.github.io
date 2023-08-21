@@ -39,4 +39,3 @@ These objectives were kept in careful consideration while designing the proposed
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
