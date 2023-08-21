@@ -4,8 +4,7 @@ title: Raabta
 description: Assistive Learning for Special Children
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: academic
 ---
 
 ### Challenge
