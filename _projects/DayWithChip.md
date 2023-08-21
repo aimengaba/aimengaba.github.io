@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Day with Chip
+title: Day with Chip
 description: Interactive story-telling game for children
 img: assets/img/7.jpg
 redirect: https://unsplash.com
