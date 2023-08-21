@@ -107,7 +107,7 @@ osf_id: zywbk # your OSF ID
 # zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is via email or twitter! :smiley
+  The best way to reach me is via email or twitter!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -172,6 +172,7 @@ collections:
     defaults:
       layout: post
     output: true
+    scrollable: true
     permalink: /news/:path/
   projects:
     output: true
