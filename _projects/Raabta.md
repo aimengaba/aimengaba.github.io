@@ -7,6 +7,8 @@ importance: 1
 category: academic
 ---
 
+A tool to explore context-aware augmented and alternative communication (AAC) systems for children with intellectual disabilities, with a primary focus on Autism and Cerebral Palsy. The project aimed to combine elements common to all three - a graphical, picture-based interface with content determined by beacon-emitted Bluetooth micro-location signals.
+
 ### Challenge
 Pakistan presents a particularly challenging case in special education where it places second in global children-out-of-school rankings: many of these children are those with special needs. Thus, most children who suffer from developmental disorders, such as intellectual disability, autism, and cerebral palsy, do not have access to education. This could be attributed to a dearth of special education schools, or to the stigma associated with developmental disorders. In fact, existing special education schools are mostly not-for-profit organizations or private charities. The teaching methodologies employed at such schools differ, and depend largely on the school's resources and ability to provide specialized teacher training.
 
