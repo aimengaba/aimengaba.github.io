@@ -7,5 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-> For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-> Organize your courses by years, topics, or universities, however you like!
+## Computer Organization and Assembly Language (CS321), Fall 2017
+### Lahore University of Management Sciences
+
+Led the course staff as the Teaching Assistant for Computer Organization and Assembly Language (CS320). Designed and evaluated final course projects, assignments and quizzes using Assembly language, C++, and Proteus.
