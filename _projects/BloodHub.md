@@ -1,19 +1,9 @@
 ---
 layout: page
 title: BloodHub
-description: Connecting donors to seekers
+description: Connecting blood donors to seekers
 img: assets/img/3.jpg
 importance: 2
-category: academic
-giscus_comments: true
----
-
----
-layout: page
-title: Raabta
-description: Assistive Learning for Special Children
-img: assets/img/12.jpg
-importance: 1
 category: academic
 ---
 
