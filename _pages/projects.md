@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my academic + professional projects since 2016.
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [academic, professional]
 horizontal: false
 ---
 
