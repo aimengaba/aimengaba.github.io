@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi and welcome!
 
-I am a PhD student studying Computer Science at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Cindy Xiong</a> in the <a href='https://cyxiong.com/visualizaxiong-lab/'>HCI/VIS</a> lab.
+I am a doctoral student studying Computer Science at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a> (started Fall 2021), working with <a href='https://cyxiong.com/'>Cindy Xiong</a> in the <a href='https://cyxiong.com/visualizaxiong-lab/'>HCI/VIS</a> lab.
 My research interests lie at the intersection of Human-Computer Interaction and Data Visualization. Specifically, I am interested in exploring the idea of fairness, trust, and bias in Machine Learning Models. My interests also lie in making technology that is accessible and inclusive.
 
 Before embarking on my PhD journey, I worked for about 2 years after completing my bachelors in Computer Science from <a href='https://lums.edu.pk/'>Lahore University of Management Sciences</a> (Lahore, Pakistan) advised by <a href='https://lums.edu.pk/lums_employee/4407'>Suleman Shahid</a>. During this time, I worked on creating and designing educational games for children (2D and 3D), and as a UX/UI designer for multiple educational institutes.
