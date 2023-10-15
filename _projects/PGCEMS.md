@@ -2,7 +2,7 @@
 layout: page
 title: Punjab Group of Colleges
 description: Education management system for employees
-img: assets/img/3.jpg
+img: assets/img/pgc ta screens/01_splash.png
 importance: 5
 category: professional
 ---
