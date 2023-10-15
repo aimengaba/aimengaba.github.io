@@ -2,7 +2,7 @@
 layout: page
 title: Zero Carbon
 description: Mobile app for renewable energy company
-img: assets/img/3.jpg
+img: assets/img/ZC-Logo.jpg
 importance: 2
 category: professional
 ---
