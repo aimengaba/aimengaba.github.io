@@ -2,7 +2,7 @@
 layout: page
 title: Ride with Pride
 description: Empowering women of Pakistan for a safer commute
-img: assets/img/12.jpg
+img: assets/img/Ride/01splash.png
 importance: 4
 category: professional
 ---
