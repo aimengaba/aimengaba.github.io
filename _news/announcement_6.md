@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed my Qualifying Exam (Portfolio) with a distinction (the entire facultu votes and only a few receive this honour)! I'm officially a PhD Candidate! 
+I passed my Qualifying Exam (Portfolio) with a distinction (the entire faculty votes and only a few receive this honour)! I'm officially a PhD Candidate! 
