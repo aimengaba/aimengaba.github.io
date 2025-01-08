@@ -30,12 +30,36 @@ In addition, the app provides a comprehensive list of all the user’s PV sites,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-26 at 10.55.45.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.37.58.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.26.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.39.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.58.png.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/dark Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.53.46.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/dark Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.42.14.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ZC_SS/dark Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.41.43.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
