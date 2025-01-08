@@ -2,7 +2,7 @@
 layout: page
 title: Day with Chip
 description: Interactive story-telling game for children
-img: assets/img/7.jpg
+img: assets/img/Day with Chip/Screen Shot 2017-05-08 at 11.28.05 PM.png
 importance: 3
 category: academic
 ---
@@ -29,12 +29,24 @@ In this research project, ADWC was developed which adopted a child-centered appr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Day with Chip/Screen Shot 2017-05-08 at 11.28.05 PM.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Day with Chip/Screen Shot 2017-05-08 at 11.31.45 PM.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Day with Chip/pastedImage0 (1).png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Day with Chip/unnamed (1).png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Day with Chip/unnamed (3).png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Day with Chip/unnamed (4).png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
