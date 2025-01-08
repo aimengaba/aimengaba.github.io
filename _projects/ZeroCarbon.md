@@ -48,7 +48,7 @@ In addition, the app provides a comprehensive list of all the user’s PV sites,
         {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.39.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.58.png.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ZC_SS/Normal Mode/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 12.38.58.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
