@@ -2,7 +2,7 @@
 layout: page
 title: BloodHub
 description: Connecting blood donors to seekers
-img: assets/img/3.jpg
+img: assets/img/BloodHub/BloodHub logo.jpeg
 importance: 2
 category: academic
 ---
