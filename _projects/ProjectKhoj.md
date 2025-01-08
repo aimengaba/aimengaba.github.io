@@ -62,7 +62,7 @@ The target audience were children aged 7-9 years old with average proficiency in
         {% include figure.html path="assets/img/khoj/Mosque.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/khoj/Railways.png.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/khoj/Railways.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/khoj/Screenshot_2019-08-15-06-47-42.png" title="example image" class="img-fluid rounded z-depth-1" %}
