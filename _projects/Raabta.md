@@ -2,7 +2,7 @@
 layout: page
 title: Raabta
 description: Assistive Learning for Special Children
-img: assets/img/12.jpg
+img: assets/img/Raabta/images/18100061.jpg
 importance: 1
 category: academic
 ---
@@ -23,12 +23,24 @@ After a thorough usability testing of the tool, we determined that the children 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Raabta/images/WhatsApp Image 2018-05-10 at 10.15.06 PM.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Raabta/images/WhatsApp Image 2018-05-10 at 10.20.28 PM.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Raabta/images/WhatsApp Image 2018-05-10 at 10.24.15 PM.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Raabta/images/WhatsApp Image 2018-05-10 at 10.24.16 PM.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Raabta/images/cf2e809a-6f8b-42f4-b068-f5194d698005.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Raabta/images/5e3b560e-00af-460f-b0fe-fe02186f00d9.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
