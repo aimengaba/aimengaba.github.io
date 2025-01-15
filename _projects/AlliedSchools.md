@@ -30,7 +30,7 @@ In addition, the app also provides a comprehensive list of all the Allied school
         {% include figure.html path="assets/img/Aims/02login.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Aims/img/03Menu.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Aims/03Menu.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Aims/04allieddashboard3.png" title="example image" class="img-fluid rounded z-depth-1" %}
