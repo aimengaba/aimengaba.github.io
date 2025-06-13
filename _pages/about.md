@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi and welcome!
 
-I'm a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction**, **Human-Centered AI**, and **Data Visualization**. My work focuses on _Advancing Responsible AI through Human-Centered Evaluation methods_. I use mixed-methods approach to understand people's perception of AI systems and create practical design guidelines that can help make these systems more fair, and inclusive. More specifically, I study how elements like language and visual design shape users’ trust and perceptions of bias, especially for people from gender-diverse and historically marginalized communities.
+I'm a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction**, **Human-Centered AI**, and **Data Visualization**. My research focuses on _Advancing Responsible AI through Human-Centered Evaluation methods_. I use mixed-methods approach to understand people's perception of AI systems and create practical design guidelines that can help make these systems more fair, and inclusive. More specifically, I study how elements like language and visual design shape users’ trust and perceptions of bias, especially for people from gender-diverse and historically marginalized communities.
 
 **I am currectly on the job market applying to both industry and academic roles, expected to graduate in August 2025.**
 
