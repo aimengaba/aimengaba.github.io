@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi and welcome!
 
-I'm a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, graduating in August 2025 and currently on the job market. I work with Dr. Cindy Xiong Bearfield on research at the intersection of **Human-Computer Interaction**, **Human-Centered AI**, and **Data Visualization**. 
+I'm a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction**, **Human-Centered AI**, and **Data Visualization**. My work focuses on Advancing Responsible AI through Human-Centered Evaluation methods. I use mixed-methods approach to understand people's perception of AI systems and create practical design guidelines that can help make these systems more fair, and inclusive. More specifically, I study how elements like language and visual design shape users’ trust and perceptions of bias, especially for people from gender-diverse and historically marginalized communities.
 
-My work focuses on Advancing Responsible AI through Human-Centered Evaluation methods. I use mixed-methods approach to understand people's perception of AI systems and create practical design guidelines that can help make these systems more fair, and inclusive. More specifically, I study how elements like language and visual design shape users’ trust and perceptions of bias, especially for people from gender-diverse and historically marginalized communities.
+**I am currectly on the job market applying to both industry and academic roles, expected to graduate in August 2025.**
 
 Along this journey, I've been fortunate to collaborate with some inspiring researchers including <a href='https://people.cs.umass.edu/~brun/'>Yuriy Brun</a>, <a href='https://emilywall.github.io/'>Emily Wall</a>, <a href='https://www.tableau.com/research/people/vidya-setlur'>Vidya Setlur</a>, <a href='https://arjun010.github.io/'>Arjun Srinivasan</a>, and <a href='https://jhoffswell.github.io/#About'>Jane Hoffswell</a>.
 
