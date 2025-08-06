@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: HCI and Information Visualization Researcher
+subtitle: HCI + Human-Centered AI + Explainable (XAI)
 
 profile:
   align: left
@@ -12,7 +12,6 @@ profile:
     # <p>agaba@umass.edu</p>
     # <p>Amherst, MA</p>
 
-
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,9 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hi and welcome!
 
-I'm a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction**, **Human-Centered AI**, and **Data Visualization**. My research focuses on _Advancing Responsible AI through Human-Centered Evaluation methods_. I use mixed-methods approach to understand people's perception of AI systems and create practical design guidelines that can help make these systems more fair, and inclusive. More specifically, I study how elements like language and visual design shape users’ trust and perceptions of bias, especially for people from gender-diverse and historically marginalized communities.
+I am a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction (HCI)**, **Human-Centered AI**, **Explainable AI (XAI)**, and **Data Visualizations**. 
 
-**I am currectly on the job market applying to both industry and academic roles, expected to graduate in August 2025.**
+I use an interdisciplinary approach in my research, drawing from HCI, physcology, and social science. My work spans topics such as human-AI interactions, explainable AI (XAI), and accessibility. What ties it all together is a commitment to understanding how people navigate and experience technology in complex real-world contexts.
+
+I am a mixed-methods researcher, employing innovative human-centered study design methods, from interviews, and surveys, to trust games, disability-led design and community-based research. My Ph.D. research is focused on Explainable AI (XAI), with the end-goal of making AI more transparent and usable. I investigate user trust and the perception of bias in ML models, along with methods to improve user trust by improving model fairness. In my accessibility research, I focus on disability-led innovation, especially with blind and low-vision (BLV) communities. Rather than positioning users as subjects or testers, I design studies that give participants the tools, time, and autonomy to define their own problems and create their own solutions.
+
+**I am currectly on the job market applying to both industry and academic roles, expected to graduate in Fall 2025.**
 
 Along this journey, I've been fortunate to collaborate with some inspiring researchers including <a href='https://people.cs.umass.edu/~brun/'>Yuriy Brun</a>, <a href='https://emilywall.github.io/'>Emily Wall</a>, <a href='https://www.tableau.com/research/people/vidya-setlur'>Vidya Setlur</a>, <a href='https://arjun010.github.io/'>Arjun Srinivasan</a>, and <a href='https://jhoffswell.github.io/#About'>Jane Hoffswell</a>.
 
