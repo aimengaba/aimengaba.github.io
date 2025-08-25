@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: HCI + Human-Centered AI + Explainable (XAI)
+subtitle: HCI + Visualization
 
 profile:
   align: left
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi and welcome!
 
-I am a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction (HCI)**, **Human-Centered AI**, **Explainable AI (XAI)**, and **Data Visualizations**. 
+I am a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction (HCI)**, **Human-Centered AI**, and **Data Visualizations**. 
 
 I use an interdisciplinary approach in my research, drawing from HCI, physcology, and social science. My work spans topics such as **human-AI interactions**, **explainable AI (XAI)**, and **accessibility**. What ties it all together is a commitment to understanding how people navigate and experience technology in complex real-world contexts.
 
