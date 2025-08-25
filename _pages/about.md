@@ -28,8 +28,6 @@ I am a **mixed-methods** researcher, employing innovative human-centered study d
 
 In my accessibility research, I focus on disability-led innovation, especially with blind and low-vision (BLV) communities. Rather than positioning users as subjects or testers, I design studies that give participants the tools, time, and autonomy to define their own problems and create their own solutions.
 
-**I am currently on the job market applying to both industry and academic roles, expected to graduate in Fall 2025.**
-
 Along this journey, I've been fortunate to collaborate with some inspiring researchers including <a href='https://people.cs.umass.edu/~brun/'>Yuriy Brun</a>, <a href='https://emilywall.github.io/'>Emily Wall</a>, <a href='https://www.tableau.com/research/people/vidya-setlur'>Vidya Setlur</a>, <a href='https://arjun010.github.io/'>Arjun Srinivasan</a>, and <a href='https://jhoffswell.github.io/#About'>Jane Hoffswell</a>.
 
 Before embarking on my PhD journey, I worked for about 2 years after completing my bachelors in Computer Science from <a href='https://lums.edu.pk/'>Lahore University of Management Sciences</a> (Lahore, Pakistan) advised by <a href='https://lums.edu.pk/lums_employee/4407'>Suleman Shahid</a>. During this time, I worked on creating and designing educational games for children (2D and 3D), and as a UX/UI designer for educational platforms.
