@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my academic + professional projects since 2016.
+description: A collection of my academic + professional projects from 2016 till 2021.
 nav: true
 nav_order: 2
 display_categories: [professional, academic]
