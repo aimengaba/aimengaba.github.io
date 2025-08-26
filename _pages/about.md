@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: HCI + Visualization
+subtitle: HCI + Visualization Researcher
 
 profile:
   align: left
