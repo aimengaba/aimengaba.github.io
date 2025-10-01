@@ -22,7 +22,7 @@ Hi and welcome!
 
 I am a Computer Science PhD candidate at <a href='https://www.cics.umass.edu/'>University of Massachusetts Amherst</a>, working with <a href='https://cyxiong.com/'>Dr. Cindy Xiong Bearfield</a> at the intersection of **Human-Computer Interaction (HCI)**, **Human-Centered AI**, and **Data Visualizations**. 
 
-I use an interdisciplinary approach in my research, drawing from HCI, physcology, and social science. My work spans topics such as **human-AI interactions**, **explainable AI (XAI)**, and **accessibility**. What ties it all together is a commitment to understanding how people navigate and experience technology in complex real-world contexts.
+I use an interdisciplinary approach in my research, drawing from HCI, phychology, and social science. My work spans topics such as **human-AI interactions**, **explainable AI (XAI)**, and **accessibility**. What ties it all together is a commitment to understanding how people navigate and experience technology in complex real-world contexts.
 
 I am a **mixed-methods** researcher, employing innovative human-centered study design methods, from interviews, and surveys, to trust games, speculative + participatory design. My Ph.D. research is focused on Explainable AI (XAI), with the end-goal of making AI more transparent and safe to use. I investigate user trust and the perception of bias in ML models, along with methods to improve user trust by improving model fairness. 
 
