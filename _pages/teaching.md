@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 ### Advanced Methods in Human-Computer Interaction (CS625), Spring 2026
-##### Lahore University of Management Sciences
-Making course schedule, and assignments. Provide substantive feedback on research projects and evaluating students’ weekly scholarly analyses.
+##### University of Massachusetts Amherst
+TA for Advanced HCI, an online graduate course. Expected to make course schedule, and assignments as well as provide substantive feedback on research projects and evaluating students’ weekly scholarly analyses.
 
 <br />
 
