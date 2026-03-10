@@ -149,6 +149,15 @@ h2 {
     border-radius: 4px;
     font-size: 0.85rem;
     font-weight: 500;
+    display: inline-block;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.badge:hover {
+    background: #e0edff;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0,102,204,0.2);
 }
 
 /* Contact links */
